@@ -1,0 +1,14 @@
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\bin\Debug\net8.0\zadanie1.exe
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\bin\Debug\net8.0\zadanie1.deps.json
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\bin\Debug\net8.0\zadanie1.runtimeconfig.json
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\bin\Debug\net8.0\zadanie1.dll
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\bin\Debug\net8.0\zadanie1.pdb
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.AssemblyInfoInputs.cache
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.AssemblyInfo.cs
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.dll
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\obj\Debug\net8.0\refint\zadanie1.dll
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.pdb
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.genruntimeconfig.cache
+C:\Users\marty\Documents\csharp\zadanie1\zadanie1\obj\Debug\net8.0\ref\zadanie1.dll
