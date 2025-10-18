@@ -1,0 +1,18 @@
+using System;
+using System.Security.Cryptography.X509Certificates;
+
+class Program 
+{
+    public static int Max(int[] tablica)
+    {
+        if (tablica.Length != 3) return -1;
+        return Math.Max(Math.Max(tablica[0], tablica[1]), tablica[2]); 
+            }
+
+    static void Main()
+    {
+        Console.Write(Max(new int[] { 1, 2, 3 }));
+
+    }
+        
+}
