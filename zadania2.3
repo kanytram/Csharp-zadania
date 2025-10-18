@@ -1,0 +1,19 @@
+using System;
+
+class Program 
+{
+    public static int[] Zwracanie(int[] tablica5)
+    {
+        return new int[3] {tablica5[0], tablica5[tablica5.Length/2], tablica5[tablica5.Length-1] };
+
+    }
+    static void Main()
+    {
+        int[] tablica3 = Zwracanie(new int[]{1, 2, 3, 4, 5});
+        Console.Write(tablica3[0] + " ");
+        Console.Write(tablica3[1] + " ");
+        Console.WriteLine(tablica3[2] + " ");
+
+    }
+        
+}
